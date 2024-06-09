@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc8a01c0cbb38b45ba41a21265bf265, type: 3}
+  m_Name: Eggplants
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: d4ebaf7525d39794f934d1327a0abe49, type: 2}
+  type: 0
+  daysUntilNextPhase: 010000000300000004000000070000000a000000
+  tileIconPhase:
+  - {fileID: 11400000, guid: 75ae971ce8715f04a8a46340cdb38d31, type: 2}
+  - {fileID: 11400000, guid: 08e3baf4df8179f4da2e7a0c0c4e941c, type: 2}
+  - {fileID: 11400000, guid: 1fb6f63f4fcc1e14f83d49696d3581f6, type: 2}
+  - {fileID: 11400000, guid: 379e5f9dd3018974fae8d3aad7324773, type: 2}
+  - {fileID: 11400000, guid: 0d65ee4ae53abb742b99f8605ec1e65d, type: 2}
+  seasons: 00000000010000000100000000000000
+  itemData: {fileID: 11400000, guid: 0437f21d49d891b44800046fdea97768, type: 2}
+  amountHarvested: 2

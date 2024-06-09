@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc8a01c0cbb38b45ba41a21265bf265, type: 3}
+  m_Name: Turnips
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 67135b0b5396f1341be96486cb39a322, type: 2}
+  type: 0
+  daysUntilNextPhase: 0200000004000000070000000a0000000c000000
+  tileIconPhase:
+  - {fileID: 11400000, guid: c594aa44a56634148b8e73274a9abd1f, type: 2}
+  - {fileID: 11400000, guid: c11ee7ffd602c574fa3c2192795c222a, type: 2}
+  - {fileID: 11400000, guid: 575d762da422a6841a935063995c4e68, type: 2}
+  - {fileID: 11400000, guid: 646fdebd107f1d74fa7da51657a810c2, type: 2}
+  - {fileID: 11400000, guid: fb375b7f2868cd44388c5e9f7e8d80f0, type: 2}
+  seasons: 01000000010000000000000000000000
+  itemData: {fileID: 11400000, guid: 6a04b4b1f30c3e0429064cfcbc1d34ef, type: 2}
+  amountHarvested: 3
